@@ -1,4 +1,4 @@
-Create screenshots from websites via json jobfiles
+Create screenshots from websites via json jobfiles for Best purpose
 ==================================================
 
 This script creates screenshots from websites via `PhantomJS`_
